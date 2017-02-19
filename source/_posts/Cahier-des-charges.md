@@ -13,6 +13,7 @@ _D'après le modèle du MOOC de l'Université des Colibris_
 ___L'Oasis de Kane___
 
 <!-- toc -->
+<!-- more -->
 
 __Informations générales__
 - Porteur du projet: 

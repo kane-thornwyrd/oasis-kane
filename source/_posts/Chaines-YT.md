@@ -11,6 +11,8 @@ date: 2017-02-18 17:45:00
 * [Primitive technology](https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA)
 * [Lukas P. Bushcraft](https://www.youtube.com/channel/UCXFQ0jspnLZzUhjjuCkGefg)
 * [Wilderness Surviving to Thriving](https://www.youtube.com/channel/UCrjX56iljpYizzOqp7VOzcg)
+* [gscforester](https://www.youtube.com/channel/UCblrAs6SpONCmfqkJjy4Fag)
+
 
 ## Francophones 
 * [Jacob Karhu](https://www.youtube.com/channel/UC8qYxNL3A19Hi410JNBb2sQ)
@@ -19,3 +21,6 @@ date: 2017-02-18 17:45:00
 * [Skall Survivalskills](https://www.youtube.com/channel/UCjvvomdGrG1xAkFtlvlcd6w)
 * [Tacticraft](https://www.youtube.com/channel/UC_xj6yHOBp9qPJwADMA_MKw)
 * [THE WILD STORKS - Les longues pattes d'Alsace](https://www.youtube.com/channel/UCdPiXbklsCTw2UE1oaDC35Q)
+
+## Russophone
+* [Адвокат Егоров (avocat Egorov)](https://www.youtube.com/channel/UCQwRlx8hVI-CFv_E-v5s84Q)
