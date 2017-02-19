@@ -12,8 +12,8 @@ timezone: Europe/Paris
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
-root: /
+url: https://kane-thornwyrd.github.io/oasis-kane/
+root: /oasis-kane/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: Ada
+theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -72,3 +72,15 @@ deploy:
   repo: git@github.com:kane-thornwyrd/oasis-kane.git
   branch: gh-pages
   message: Mise-à-jour du {{ now('YYYY-MM-DD HH:mm:ss') }}
+
+toc:
+  maxdepth: 3
+  class: toc
+  slugify: transliteration
+  anchor:
+    position: before
+    symbol: '¶'
+    style: header-anchor
+
+imgur:
+  clientId: e81550938a73234
